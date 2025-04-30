@@ -3,7 +3,7 @@
 -->
 ## About Me
 
-Im Rebecca, a psychology graduate with a strong interest in human behaviours and data. After several years immersed in human psychology, i've transitioned into data analytics to combine my knowledge of human cognition and how it correlates with data-driven insights. As my academic background has taught me to explore and analyse, I felt I could apply these techniques to data analytics which uses uses statistical techniques and visual story telling to solve real-world problems. I have gained strong interpersonal skills in my years of experience in healthcare and administration, along with a detail-oriented approach and the ability to thrive under pressure. These strengths have supported my growth of technical acumen in data interpretation and visualisation.
+I'm Rebecca, a psychology graduate with a strong interest in human behaviours and data. After several years immersed in human psychology, i've transitioned into data analytics to combine my knowledge of human cognition and how it correlates with data-driven insights. As my academic background has taught me to explore and analyse, I felt I could apply these techniques to data analytics which uses uses statistical techniques and visual story telling to solve real-world problems. I have gained strong interpersonal skills in my years of experience in healthcare and administration, along with a detail-oriented approach and the ability to thrive under pressure. These strengths have supported my growth of technical acumen in data interpretation and visualisation.
 
 ## My Skills
 
